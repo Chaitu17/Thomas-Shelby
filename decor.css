@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+h1 {
+    position: sticky;
+    top: 0;
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+    color:firebrick;
+    background-image: url('head_bg.jpeg');
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.super {
+    display: inline-block;
+}
+
